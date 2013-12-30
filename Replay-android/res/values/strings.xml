@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="app_name">Replay</string>
+    <string name="replay_plans">plan</string>
+    <string name="replay_events">event</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">add</string>
+    <string name="dialog_title">Add Group</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="success">successful</string>
+    <string name="fail">failed</string>
+
+</resources>

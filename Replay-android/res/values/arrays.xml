@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dialog0">
+        <item>add to plan</item>
+        <item>delete</item>
+        <item >detail</item>
+    </string-array>
+    <string-array name="dialog1">
+        <item>move up</item>
+        <item>move down</item>
+        <item>remove</item>
+    </string-array>
+
+</resources>
